@@ -1,4 +1,4 @@
-+++title = "A Person Re-Identification System For Mobile Devices" date = "2015-09-01"
++++ title = "A Person Re-Identification System For Mobile Devices" date = "2015-09-01"
 
 authors = ["GA Cushen"]
 
