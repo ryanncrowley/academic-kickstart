@@ -2,7 +2,7 @@
 title = "A publication title, such as title of a paper"
 
 # Date first published.
-date = "2013-07-01"
+date = "2018-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["First author's name", "Second author's name"]
@@ -16,11 +16,11 @@ authors = ["First author's name", "Second author's name"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "In *My Favorite Journal*. You may use *Markdown* for italics etc."
+publication_short = "In *MFJ*"
 
 # Abstract and optional shortened version.
 abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
