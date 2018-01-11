@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2018-01-11T00:00:00"
 
 # Order that this section will appear in.
 weight = 5
@@ -10,16 +10,16 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Quantitative research methodology and design",
+    "Intervention adn Prevention Program Evaluation",
+    "Mixed and Mixture Models, Intensive Longitudinal Data, Timed-Event Observation Data"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MS in Psychology with emphasis in Research Design and Analysis"
+  institution = "University of Oregon"
+  year = 2008
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
@@ -35,6 +35,4 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+She has over sixteen years of experience, as an analyst providing support for several investigators and projects, the content area of her research is diverse. Her role in these collaborations is to champion the methodological and analytical needs of the project.  Her research is predominately quantitative and questionnaire based, and more recently, these methods are accompanied with time-event based observation, peer network, and intensive longitudinal data (ILD).  She enjoy bringing innovative methodology and novel assessment procedures to a proposal to quantify previously unmeasurable phenomena.  Research content areas that she has contributed to include: parenting practices, tobacco cessation, and adolescent problem behaviors.  Longitudinal investigations and prevention programs she has assisted are focused on delaying the initiation or escalation of substance use and reducing the participation of risky sexual practices that accompany a substance-abusing lifestyle.  She find these research areas intrinsically and extrinsically motivating, as she provided innovative methods and analysis to projects that have the potential to improve lives and others well-being.
