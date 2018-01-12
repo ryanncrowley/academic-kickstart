@@ -1,6 +1,6 @@
 +++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
+# My own content.
+# Will this work and how many can I make? 
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
@@ -14,6 +14,8 @@ subtitle = ""
 weight = 60
 
 +++
+
+HOly wow.  DId I need to add content *below* the +++ for my publications to display? 
 
 This is an example of using the *custom* widget to create your own homepage section.
 
