@@ -16,7 +16,4 @@ weight = 60
 +++
 
 HOly wow.  How can a site be this specific about line breaks and spacing.  It's totally maddening! 
-
-This is an example of using the *custom* widget to create your own homepage section.
-
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+STill have no idea what I want to display here.
