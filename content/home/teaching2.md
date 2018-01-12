@@ -1,7 +1,10 @@
 +++
-# My own content - part 2.
-# Will this work and how many can I make?
-widget = "custom2" active = true date = "2016-04-20T00:00:00"
+# My own content.
+# Will this work and how many can I make? 
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "custom"
+active = true
+date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Custom Section - part 2" subtitle = ""
