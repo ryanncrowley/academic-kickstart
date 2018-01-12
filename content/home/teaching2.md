@@ -2,14 +2,14 @@
 
 +++
 
-My own content - part 2.
-Will this work and how many can I make?
+# My own content - part 2.
+# Will this work and how many can I make?
 
 widget = "custom2" active = true date = "2016-04-20T00:00:00"
-Note: a full width section format can be enabled by commenting out the title and subtitle with a #.
+# Note: a full width section format can be enabled by commenting out the title and subtitle with a #.
 
 title = "Custom Section - part 2" subtitle = ""
-Order that this section will appear in.
+# Order that this section will appear in.
 
 weight = 60
 
