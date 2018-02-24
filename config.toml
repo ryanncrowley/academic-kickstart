@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Oregon Research Institute (ORI)", url = "http://www.ori.org/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "rc.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "ryanncrowley@gmail.com"
   address = "Eugene, OR 97403, USA"
   office_hours = ""
